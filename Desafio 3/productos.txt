@@ -1,0 +1,21 @@
+[  
+
+{
+		"title": "Bicicleta Venzo",
+		"price": "60000",
+		"thumbnail": "BicicletaVenzo.jpg",
+		"id": 1
+	},
+	{
+		"title": "Bicicleta Fire Bird",
+		"price": "70000",
+		"thumbnail": "BicicletaFireBird.jpg",
+		"id": 2
+	},
+	{
+		"title": "BicicletaTop",
+		"price": "50000",
+		"thumbnail": "Bicicleta Top.jpg",
+		"id": 3
+	}
+]
